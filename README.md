@@ -57,10 +57,10 @@
   <a href="https://vk.com/r.krasinski" target="_blank">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" title="vk" alt="vk" width="40" height="40"/>
   </a>
-  <a href="https://wa.me/qr/HKRREEU3K6UHD1" target="_blank">
+  <a href="https://wa.me/79198613222" target="_blank">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" title="whatsapp" alt="whatsapp" width="40" height="40"/>
   </a>
-  <a href="https://viber.click/79788657030" target="_blank">
+  <a href="https://viber.click/79198613222" target="_blank">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Viber.svg" title="viber" alt="viber" width="40" height="40"/>
   </a>
   <a href="mailto:krasinskiiroma9797@gmail.com" target="_blank">
